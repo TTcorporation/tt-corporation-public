@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://ttcorporation.github.io/tt-corporation-public/sitemap.xml
+Sitemap: https://tt-corporation.com/sitemap.xml
