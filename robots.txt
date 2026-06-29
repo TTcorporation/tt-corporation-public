@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ttcorporation.github.io/tt-corporation-public/sitemap.xml
